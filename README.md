@@ -98,6 +98,10 @@ import UMPush
 
 SDK 初始化及接口使用请参考 [友盟官方文档](https://devs.umeng.com/docs/67966/detail/66734)。
 
+## Demo 示例
+
+纯 SwiftPM 集成的完整示例工程见 Demo 仓库 [iOS_SPM_dependency_sample](https://github.com/umeng/iOS_SPM_dependency_sample)，其中推送示例位于 [`UPushSample_iOS`](https://github.com/umeng/iOS_SPM_dependency_sample/tree/main/UPushSample_iOS) 目录，克隆后用 Xcode 打开即可编译运行。
+
 ## 许可
 
 SDK 为友盟版权所有的闭源二进制组件，使用须遵循友盟 SDK 相关协议。
